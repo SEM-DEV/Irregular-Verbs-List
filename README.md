@@ -12,3 +12,6 @@ The extension includes:
 [Get if from Chrome](https://chrome.google.com/webstore/detail/irregular-verbs-list/gdccddffggfiblkgbfimeaboeneefldm?hl=ar)
 
 [Get it from Edge](https://microsoftedge.microsoft.com/addons/detail/irregular-verbs-list/feafoffogpombkffiphfhkpopgiiglok)
+
+## Demo
+![Gif](https://raw.githubusercontent.com/SEM-DEV/Irregular-Verbs-List/main/Assets/1.gif)
