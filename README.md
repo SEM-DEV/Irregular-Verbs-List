@@ -5,7 +5,7 @@
 The extension includes:
 
 * A list of the popular English Irregular verbs.
-* this extension works for cross platform (mozilla, chrome and edge).
+* This extension works for cross-platform (Mozilla, Chrome, and Edge).
 
 [Get it from mozilla](https://addons.mozilla.org/en-US/firefox/addon/irregular-verbs-list/)
 
