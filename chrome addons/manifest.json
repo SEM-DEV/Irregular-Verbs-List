@@ -1,13 +1,12 @@
   {
     "name": "Irregular Verbs List",
-	 "manifest_version": 2,
-    "version": "1.0",
+	 "manifest_version": 3,
+    "version": "2.0",
     "description": "Irregular Verbs List",
     "icons": {
       "16": "icon_16.png"
-    },
-    
-    "browser_action": {
+    },    
+    "action": {
       "default_icon": {                   
             "16": "icon_16.png"        
                    
